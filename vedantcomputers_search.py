@@ -1,5 +1,7 @@
 import requests
 
+# www.vedantcomputers.com uses CMS OpenCart
+
 url = "https://www.vedantcomputers.com/"
 
 while(True):

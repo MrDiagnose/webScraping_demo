@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 
+# www.primeabgb.com uses CMS WordPress 5.9.3/ WooCommerce/ WPBakery/ AnsPress
+
 # html_text = requests.get('https://www.amazon.in/s?k=sn550').text
 while(True):
 
